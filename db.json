@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "fullname": "testing",
+      "username": "testing",
+      "email": "testing@mail.com",
+      "password": "Testing1@mail.com",
+      "id": 1
+    },
+    {
+      "fullname": "david",
+      "username": "davidhuang",
+      "email": "davidhuang@mail.com",
+      "password": "1Davidhuang@mail.com",
+      "id": 2
+    },
+    {
+      "fullname": "baso",
+      "username": "basoaja@mail.com",
+      "email": "basoaja@mail.com",
+      "password": "basoaja@mail.comB1",
+      "id": 3
+    }
+  ],
+  "tweets": [
+    {
+      "tweet": "tes2",
+      "feeling": "Sad",
+      "userId": 2,
+      "createdAt": "2024-04-17T19:04:26.577Z",
+      "liked": 2,
+      "id": 6
+    },
+    {
+      "tweet": "vbvhv",
+      "feeling": "Happy",
+      "userId": 1,
+      "createdAt": "2024-04-17T19:53:03.455Z",
+      "liked": 0,
+      "id": 7
+    },
+    {
+      "tweet": "testing3",
+      "feeling": "Shocked",
+      "userId": 1,
+      "createdAt": "2024-04-17T20:00:43.749Z",
+      "liked": 1,
+      "id": 9
+    },
+    {
+      "tweet": "testing4",
+      "feeling": "Happy",
+      "userId": 1,
+      "createdAt": "2024-04-17T20:00:49.840Z",
+      "liked": 1,
+      "id": 10
+    },
+    {
+      "tweet": "bhbhbhb",
+      "feeling": "Happy",
+      "userId": 1,
+      "createdAt": "2024-04-17T20:36:13.870Z",
+      "liked": 1,
+      "id": 11
+    },
+    {
+      "tweet": "baso ini akunnya",
+      "feeling": "Sad",
+      "userId": 3,
+      "createdAt": "2024-04-17T22:35:56.921Z",
+      "liked": 0,
+      "id": 13
+    },
+    {
+      "tweet": "coba lagi ah",
+      "feeling": "Happy",
+      "userId": 3,
+      "createdAt": "2024-04-17T22:36:09.665Z",
+      "liked": 0,
+      "id": 14
+    },
+    {
+      "tweet": "berisikkk",
+      "feeling": "Happy",
+      "userId": 1,
+      "createdAt": "2024-04-17T23:26:59.913Z",
+      "liked": 0,
+      "id": 15
+    },
+    {
+      "tweet": "sssssss",
+      "feeling": "Happy",
+      "userId": 1,
+      "createdAt": "2024-04-17T23:31:09.454Z",
+      "liked": 0,
+      "id": 16
+    },
+    {
+      "tweet": "test feeling happy",
+      "feeling": "Happy",
+      "userId": 1,
+      "createdAt": "2024-04-17T23:43:00.494Z",
+      "liked": 0,
+      "id": 17
+    },
+    {
+      "tweet": "feeling sad",
+      "feeling": "Sad",
+      "userId": 1,
+      "createdAt": "2024-04-17T23:43:07.874Z",
+      "liked": 0,
+      "id": 18
+    },
+    {
+      "tweet": "shocked",
+      "feeling": "Shocked",
+      "userId": 1,
+      "createdAt": "2024-04-17T23:43:12.939Z",
+      "liked": 0,
+      "id": 19
+    }
+  ]
+}
